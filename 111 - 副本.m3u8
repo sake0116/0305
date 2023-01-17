@@ -99,6 +99,10 @@ https://cdn.hklive.tv/xxxx/84/index.m3u8
 http://159.75.85.63:5681/sxg.php
 #EXTINF:-1 ,动作电影
 https://live.v1.mk/aishang/chcdzdy
+#EXTINF:-1 ,高清电影
+https://live.v1.mk/aishang/chcgqdy
+#EXTINF:-1 ,家庭影院
+https://live.v1.mk/aishang/chcjtyy
 #EXTINF:-1 ,香港文旅
 https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 #EXTINF:-1 ,港台電視1
