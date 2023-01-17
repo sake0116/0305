@@ -115,8 +115,12 @@ https://cdn.hklive.tv/xxxx/33/index.m3u8
 https://cdn.hklive.tv/xxxx/34/index.m3u8
 #EXTINF:-1 ,香港國際
 https://cdn.hklive.tv/xxxx/76/index.m3u8
+#EXTINF:-1 ,爱尔达体育1
+https://pull-l3-cny.douyincdn.com/live/6bc2d88f8fbedeb09c55f7bb1cc0e3a3.m3u8
 #EXTINF:-1 ,体育財經
 https://cdn.hklive.tv/xxxx/85/index.m3u8
+#EXTINF:-1 ,博斯体育
+https://pull-l3-cny.douyincdn.com/live/6bc2d88f8fbedeb09c55f7bb1cc0e3a3.m3u8
 #EXTINF:-1 ,NEWTV超级体育
 https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
 #EXTINF:-1 ,优视 
@@ -355,6 +359,5 @@ http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15184/index.m3u8
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15231/index.m3u8
 #EXTINF:-1 ,Insport HD
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/16071/index.m3u8
-#EXTINF:-1 ,NEWTV超级体育
-https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
+
 
