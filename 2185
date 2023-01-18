@@ -97,6 +97,8 @@ https://cdn.hklive.tv/xxxx/81/index.m3u8
 https://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1 ,4k电影
 http://159.75.85.63:5681/sxg.php
+#EXTINF:-1 ,经典功夫台
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="数字",黑莓电影
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 ,动作电影
@@ -203,6 +205,8 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 ,Discovery
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2487/index.m3u8
+#EXTINF:-1 ,野生动物
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 ,美国中文电视
 https://jpts.sinovision.net/livestream.m3u8
 #EXTINF:-1 ,CNN
@@ -361,5 +365,3 @@ http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15184/index.m3u8
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15231/index.m3u8
 #EXTINF:-1 ,Insport HD
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/16071/index.m3u8
-#EXTINF:-1 ,香港体育
-https://t20.iptv200.com/live/hk601/index.m3u8?session=3tdubh3ltyheu4muy9a03292n4igg4gr
