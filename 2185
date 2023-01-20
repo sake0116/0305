@@ -77,6 +77,8 @@ http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 ,旅游卫视
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,广东体育
+https://pull-l3-cny.douyincdn.com/live/b8aecb706d649cb7ed6a9f9ffba1b70d.m3u8
 #EXTINF:-1 ,香港卫视
 http://livetv.dnsfor.me:80/channel.7.m3u8
 #EXTINF:-1 ,香港新闻
