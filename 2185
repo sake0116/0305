@@ -12,7 +12,7 @@ https://api.olelive.com/dis/live/CCTV5HD_1080_SRT/hls.m3u8
 #EXTINF:-1 ,CCTV5+
 https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 ,CCTV6
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 ,CCTV7
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
 #EXTINF:-1 ,CCTV8
@@ -37,8 +37,10 @@ http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/800000
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 #EXTINF:-1 ,CCTV4K
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1 ,风云足球
+https://node1.olelive.com:6443/live/FYZQHD/hls.m3u8
 #EXTINF:-1 ,北京卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
+https://node1.olelive.com:6443/live/BJHD/hls.m3u8
 #EXTINF:-1 ,上海卫视
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 ,辽宁卫视
@@ -77,6 +79,8 @@ http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 ,旅游卫视
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,东南卫视
+https://node1.olelive.com:6443/live/DNHD/hls.m3u8
 #EXTINF:-1 ,广东体育
 https://pull-l3-cny.douyincdn.com/live/b8aecb706d649cb7ed6a9f9ffba1b70d.m3u8
 #EXTINF:-1 ,香港卫视
@@ -88,15 +92,17 @@ https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 ,香港HOY
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 ,凤凰卫视
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 ,凤凰资讯
-https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 ,澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 ,翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 ,明珠台
 https://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1 , SofyTV
+https://sofy-ger-samsung.amagi.tv/playlist720.m3u8
 #EXTINF:-1 ,4k电影
 http://159.75.85.63:5681/sxg.php
 #EXTINF:-1 ,经典功夫台
@@ -219,6 +225,10 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 #EXTINF:-1 ,CBS SPORTS
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7324/index.m3u8
+#EXTINF:-1 ,Insight TV
+https://insighttv-vizio.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 ,韩国KBS
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 ,Bek sports
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 ,天空体育 综合
