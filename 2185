@@ -147,7 +147,9 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3694.ts
 #EXTINF:-1 ,WWE
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3848.ts
-#EXTINF:-1 ,日本电视
+#EXTINF:-1 ,日本新闻
+https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+#EXTINF:-1 ,日本电视2
 http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 #EXTINF:-1 ,ViuTV
 https://cdn.hklive.tv/xxxx/99/index.m3u8
@@ -193,6 +195,8 @@ http://stream.smntv.cn/smtv2/playlist.m3u8
 https://pull-l3-cny.douyincdn.com/live/964a5f6c9a9c35d07afd1043e89f9dfe.m3u8
 #EXTINF:-1 ,东森幼幼
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
+#EXTINF:-1 ,金鹰卡通
+https://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWNhZjJkNWU1MWNiODMxMTZhZDBmOGUwYWE3YTI0NDM3JmVzPTE2NzQ3MDE0ODImdXVpZD02NWI2Y2EyMzAzN2QxYzEzMmU1NWRkNzIwMzIzNzI3Yy02NzhhNTBkZCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYKTMPP360.m3u8
 #EXTINF:-1 ,CNC中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 ,CNC英语
@@ -275,6 +279,10 @@ http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2336.ts
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6564/index.m3u8
 #EXTINF:-1 ,BT 体育4
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2334.ts
+#EXTINF:-1 ,日本体育1
+https://redlabmcdn.s.llnwi.net/nv02/bs15hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,日本体育3
+https://redlabmcdn.s.llnwi.net/nv02/bs12hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Star Sports
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2507/index.m3u8
 #EXTINF:-1 ,ONtime Sports
