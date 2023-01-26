@@ -127,8 +127,8 @@ https://cdn.hklive.tv/xxxx/33/index.m3u8
 https://cdn.hklive.tv/xxxx/34/index.m3u8
 #EXTINF:-1 ,香港國際
 https://cdn.hklive.tv/xxxx/76/index.m3u8
-#EXTINF:-1 ,爱尔达体育1
-https://pull-l3-cny.douyincdn.com/live/6bc2d88f8fbedeb09c55f7bb1cc0e3a3.m3u8
+#EXTINF:-1 ,Movie Sphere 
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,体育財經
 https://cdn.hklive.tv/xxxx/85/index.m3u8
 #EXTINF:-1 ,MIAMI
