@@ -8,7 +8,7 @@ http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/m
 #EXTINF:-1 ,CCTV4
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 ,CCTV5
-https://api.olelive.com/dis/live/CCTV5HD_1080_SRT/hls.m3u8
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 ,CCTV5+
 https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 ,CCTV6
@@ -94,7 +94,11 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 ,凤凰卫视
 https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 ,凤凰资讯
-https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+#EXTINF:-1 ,凤凰香港
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
+#EXTINF:-1 ,半岛新闻
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 ,澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 ,翡翠台
@@ -115,8 +119,8 @@ https://live.v1.mk/aishang/chcdzdy
 https://live.v1.mk/aishang/chcgqdy
 #EXTINF:-1 ,家庭影院
 https://live.v1.mk/aishang/chcjtyy
-#EXTINF:-1 ,香港文旅
-https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+#EXTINF:-1 ,星光影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 ,港台電視1
 https://cdn.hklive.tv/xxxx/31/index.m3u8
 #EXTINF:-1 ,港台電視2
@@ -211,6 +215,8 @@ https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/221/index.m3u8
 #EXTINF:-1 ,K-Pop
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 ,精品纪录
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225710/2/index.m3u8
 #EXTINF:-1 ,Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 ,动物世界
