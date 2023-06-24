@@ -176,7 +176,7 @@ https://cntv.sbs/live?auth=230612&id=zgtq
 https://cntv.sbs/lhws?auth=230612
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 https://cntv.sbs/fs?id=fhhk&auth=230612
-#EXTINF:-1 ,香港卫视 group-title="港澳台",香港卫视
+#EXTINF:-1 ,香港卫视,group-title="港澳台",香港卫视
 http://livetv.dnsfor.me:80/channel.7.m3u8
 #EXTINF:-1 ,香港新闻 group-title="港澳台"
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
