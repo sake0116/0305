@@ -168,6 +168,8 @@ https://cntv.sbs/live?auth=230612&id=cetv1
 https://cntv.sbs/live?auth=230612&id=cetv2
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="其他",CETV4
 https://cntv.sbs/live?auth=230612&id=cetv4
+#EXTINF:-1 ,北京影视
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1687641069&sign=cf9a70564ed24417d703527002237f96
 #EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/华语影院.png" group-title="其他",华语影院
 https://cntv.sbs/live?auth=230612&id=hyyy
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他",中国天气
@@ -176,18 +178,18 @@ https://cntv.sbs/live?auth=230612&id=zgtq
 https://cntv.sbs/lhws?auth=230612
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 https://cntv.sbs/fs?id=fhhk&auth=230612
-#EXTINF:-1 ,香港卫视,group-title="港澳台",香港卫视
+#EXTINF:-1 ,香港卫视
 http://livetv.dnsfor.me:80/channel.7.m3u8
-#EXTINF:-1 ,香港新闻 group-title="港澳台"
+#EXTINF:-1 ,香港新闻
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 ,無綫新聞台 group-title="港澳台"
+#EXTINF:-1 ,無綫新聞台
 https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 ,香港HOY group-title="港澳台"
+#EXTINF:-1 ,香港HOY
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 ,凤凰卫视
-https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+http://113.207.84.196/session/cd14cdfe-12d1-11ee-b748-5254006225bb$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/xfjcHD/__op/default/__f/index.m3u8?token=bae070451cf0743bf675d1d0b8dfb922_1687724691_1687724691
 #EXTINF:-1 ,凤凰资讯
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+http://xchentv.com/phtv/fhzx.php
 #EXTINF:-1 ,凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1 ,半岛新闻
@@ -234,6 +236,8 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 https://pull-l3-cny.douyincdn.com/live/631343023b413c014d5a37ee04a3d3da.flv
 #EXTINF:-1 ,优视 
 http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/playlist.m3u8
+#EXTINF:-1 ,澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 ,澳门财经
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 #EXTINF:-1 ,华数 (720p) [Not 24/7]
@@ -344,6 +348,8 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 ,Bek sports2
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
+#EXTINF:-1 ,天空news
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 ,天空体育 综合
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7337/index.m3u8
 #EXTINF:-1 ,天空体育 新闻
@@ -664,406 +670,3 @@ http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 #EXTINF:-1 group-title="测试频道",金砖中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTM3U
-#EXTINF:-1 ,CCTV1
-https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 ,CCTV2
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,CCTV3
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
-#EXTINF:-1 ,CCTV4
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,CCTV5
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 ,CCTV5+
-https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 ,CCTV6
-https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
-#EXTINF:-1 ,CCTV7
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,CCTV8
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,CCTV9
-https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 ,CCTV10
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,CCTV11
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,CCTV12
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,CCTV13
-https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 ,CCTV14
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,CCTV15
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,CCTV16
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,CCTV17
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,CCTV4K
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
-#EXTINF:-1 ,风云足球
-https://node1.olelive.com:6443/live/FYZQHD/hls.m3u8
-#EXTINF:-1 ,北京卫视
-https://node1.olelive.com:6443/live/BJHD/hls.m3u8
-#EXTINF:-1 ,上海卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,广东卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,湖南卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,浙江卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,江苏卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,深圳卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,重庆卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
-#EXTINF:-1 ,天津卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,吉林卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,山东卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/sdws8m/8000000/mnf.m3u8
-#EXTINF:-1 ,河南卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,河北卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,云南卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,贵州卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,广西卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,东南卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,旅游卫视
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,东南卫视
-https://node1.olelive.com:6443/live/DNHD/hls.m3u8
-#EXTINF:-1 ,广东体育
-https://pull-l3-cny.douyincdn.com/live/pull-l3-cny.douyincdn.com_106b85aa76b74ab8c1a369f10870e20e-1675006260153.ts
-#EXTINF:-1 ,香港卫视
-http://livetv.dnsfor.me:80/channel.7.m3u8
-#EXTINF:-1 ,香港新闻
-https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 ,無綫新聞台
-https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 ,香港HOY
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 ,凤凰卫视
-https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-#EXTINF:-1 ,凤凰香港
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-#EXTINF:-1 ,半岛新闻
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 ,澳门莲花
-http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 ,翡翠台
-https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 ,明珠台
-https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 , SofyTV
-https://sofy-ger-samsung.amagi.tv/playlist720.m3u8
-#EXTINF:-1 ,4k电影
-http://159.75.85.63:5681/sxg.php
-#EXTINF:-1 ,经典功夫台
-https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="数字",黑莓电影
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 ,动作电影
-https://live.v1.mk/aishang/chcdzdy
-#EXTINF:-1 ,高清电影
-https://live.v1.mk/aishang/chcgqdy
-#EXTINF:-1 ,家庭影院
-https://live.v1.mk/aishang/chcjtyy
-#EXTINF:-1 ,星光影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 ,港台電視1
-https://cdn.hklive.tv/xxxx/31/index.m3u8
-#EXTINF:-1 ,港台電視2
-https://cdn.hklive.tv/xxxx/32/index.m3u8
-#EXTINF:-1 ,港台電視3
-https://cdn.hklive.tv/xxxx/33/index.m3u8
-#EXTINF:-1 ,港台電視4
-https://cdn.hklive.tv/xxxx/34/index.m3u8
-#EXTINF:-1 ,香港國際
-https://cdn.hklive.tv/xxxx/76/index.m3u8
-#EXTINF:-1 ,Movie Sphere 
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,体育財經
-https://cdn.hklive.tv/xxxx/85/index.m3u8
-#EXTINF:-1 ,MIAMI
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 ,纬来体育
-https://pull-l3-cny.douyincdn.com/live/631343023b413c014d5a37ee04a3d3da.flv
-#EXTINF:-1 ,优视 
-http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/playlist.m3u8
-#EXTINF:-1 ,澳门财经
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 ,华数 (720p) [Not 24/7]
-http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
-#EXTINF:-1 ,奇妙電視 
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 ,TV14
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3694.ts
-#EXTINF:-1 ,WWE
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3848.ts
-#EXTINF:-1 ,日本新闻
-https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-#EXTINF:-1 ,日本电视2
-http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-#EXTINF:-1 ,ViuTV
-https://cdn.hklive.tv/xxxx/99/index.m3u8
-#EXTINF:-1 ,ViuTV Six
-https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:-1 ,J2台
-https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 ,新华中文
-http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-#EXTINF:-1 ,财经资讯台
-http://livetv.dnsfor.me:80/channel.6.m3u8
-#EXTINF:-1 ,华语电视
-http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-#EXTINF:-1 ,华语电视2
-http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
-#EXTINF:-1 ,华语电视3
-http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-#EXTINF:-1 ,澳视澳门
-http://61.244.22.4/ch1/ch1.live/index.m3u8
-#EXTINF:-1 ,澳门综艺
-http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 ,TVBS新聞
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 ,TVBS娱乐
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 ,台视新闻
-https://live.wcetv.com/hls/master-ttvnews.m3u8
-#EXTINF:-1 ,寰宇新聞
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-#EXTINF:-1 ,鏡新聞
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 ,人間衛視
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 ,華視
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 ,華視HD
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 ,三明新闻
-http://stream.smntv.cn/smtv1/playlist.m3u8
-#EXTINF:-1 ,三明公共
-http://stream.smntv.cn/smtv2/playlist.m3u8
-#EXTINF:-1 ,东森新闻
-https://pull-l3-cny.douyincdn.com/live/964a5f6c9a9c35d07afd1043e89f9dfe.m3u8
-#EXTINF:-1 ,东森幼幼
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
-#EXTINF:-1 ,金鹰卡通
-https://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWNhZjJkNWU1MWNiODMxMTZhZDBmOGUwYWE3YTI0NDM3JmVzPTE2NzQ3MDE0ODImdXVpZD02NWI2Y2EyMzAzN2QxYzEzMmU1NWRkNzIwMzIzNzI3Yy02NzhhNTBkZCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYKTMPP360.m3u8
-#EXTINF:-1 ,CNC中文
-http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-#EXTINF:-1 ,CNC英语
-http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-#EXTINF:-1 ,CINEMAX
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6153/index.m3u8
-#EXTINF:-1 ,娱乐汇
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6093/index.m3u8
-#EXTINF:-1 ,AFV
-https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
-#EXTINF:-1 ,MTV
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/221/index.m3u8
-#EXTINF:-1 ,K-Pop
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-#EXTINF:-1 ,精品纪录
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225710/2/index.m3u8
-#EXTINF:-1 ,Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 ,动物世界
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 ,Discovery
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2487/index.m3u8
-#EXTINF:-1 ,野生动物
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 ,美国中文电视
-https://jpts.sinovision.net/livestream.m3u8
-#EXTINF:-1 ,CNN
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 ,FOX新闻
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,FOX体育1
-https://pull-l3-cny.douyincdn.com/live/ef4f5b436e111c75d79e5a441633d34a.flv
-#EXTINF:-1 ,FOX体育2
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
-#EXTINF:-1 ,CBS SPORTS
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7324/index.m3u8
-#EXTINF:-1 ,world poker
-https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
-#EXTINF:-1 ,history
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 ,MCN Arts
-https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
-#EXTINF:-1 ,Insight TV
-https://insighttv-vizio.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 ,韩国KBS
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 ,Bek sports
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 ,Bek sports2
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
-#EXTINF:-1 ,天空体育 综合
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7337/index.m3u8
-#EXTINF:-1 ,天空体育 新闻
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
-#EXTINF:-1 ,天空体育 英超
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
-#EXTINF:-1 ,天空体育 德甲
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7234/index.m3u8
-#EXTINF:-1 ,天空体育 足球
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
-#EXTINF:-1 ,天空体育 竞技
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7338/index.m3u8
-#EXTINF:-1,天空体育 F1
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7342/index.m3u8
-#EXTINF:-1 ,天空体育 格斗
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15097/index.m3u8
-#EXTINF:-1 ,天空体育 Golf
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7344/index.m3u8
-#EXTINF:-1 ,天空体育 板球
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
-#EXTINF:-1 ,天空体育 澳洲
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2492/index.m3u8
-#EXTINF:-1 ,欧洲体育1
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
-#EXTINF:-1 ,欧洲体育2
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
-#EXTINF:-1 ,Bein体育 综合
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6131/index.m3u8
-#EXTINF:-1 ,Bein体育
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2499/index.m3u8
-#EXTINF:-1 ,Bein体育2
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2500/index.m3u8
-#EXTINF:-1 ,Bein体育3
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2501/index.m3u8
-#EXTINF:-1 ,Bein体育3
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6124/index.m3u8
-#EXTINF:-1 ,BT 体育1
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2505/index.m3u8
-#EXTINF:-1 ,BT 体育2
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2336.ts
-#EXTINF:-1 ,BT 体育3
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6564/index.m3u8
-#EXTINF:-1 ,BT 体育4
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2334.ts
-#EXTINF:-1 ,日本体育1
-https://redlabmcdn.s.llnwi.net/nv02/bs15hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,日本体育3
-https://redlabmcdn.s.llnwi.net/nv02/bs12hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Star Sports
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2507/index.m3u8
-#EXTINF:-1 ,ONtime Sports
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2512/index.m3u8
-#EXTINF:-1 ,NOVA Sport
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2514/index.m3u8
-#EXTINF:-1 ,Red Bull
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/16040/index.m3u8
-#EXTINF:-1 ,Eleven Sports1
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2531/index.m3u8
-#EXTINF:-1 ,Eleven Sports2
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2532/index.m3u8
-#EXTINF:-1 ,Eleven Sports3
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2533/index.m3u8
-#EXTINF:-1 ,Eleven Sports4
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2534/index.m3u8
-#EXTINF:-1 ,Eleven Sports5
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2535/index.m3u8
-#EXTINF:-1 ,DIGI Sport 1
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2523/index.m3u8
-#EXTINF:-1 ,DIGI Sport 2
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2522/index.m3u8
-#EXTINF:-1 ,DIGI Sport 4
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2538/index.m3u8
-#EXTINF:-1 ,SPORT TV 1
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2525/index.m3u8
-#EXTINF:-1 ,SPORT TV 2
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2526/index.m3u8
-#EXTINF:-1 ,SPORT TV 3
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2527/index.m3u8
-#EXTINF:-1 ,SPORT TV 4
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2528/index.m3u8
-#EXTINF:-1 ,SPORT TV 5
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2529/index.m3u8
-#EXTINF:-1 ,SPORT TV +
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2530/index.m3u8
-#EXTINF:-1 ,拜仁体育
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
-#EXTINF:-1 ,BAND体育
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6158/index.m3u8
-#EXTINF:-1 ,VIASAT SPORT
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12074/index.m3u8
-#EXTINF:-1 ,VIASAT SPORT HD
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12075/index.m3u8
-#EXTINF:-1 ,VIASAT SPORT足球
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12076/index.m3u8
-#EXTINF:-1 ,VIASAT SPORT GOLF
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12077/index.m3u8
-#EXTINF:-1 ,VIASAT SPORT 综合
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12079/index.m3u8
-#EXTINF:-1 ,TENNIS CHANNEL
-https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
-#EXTINF:-1 ,TENNIS CHANNEL 2
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,极限运动
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
-#EXTINF:-1 ,MAT体育
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/124/index.m3u8
-#EXTINF:-1 ,MAT体育2
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
-#EXTINF:-1 ,俄罗斯体育
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
-#EXTINF:-1 ,迪拜体育
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 ,迪拜体育2
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 ,乌克兰体育
-http://iptv.prosto.tv:7000/ch109/video.m3u8
-#EXTINF:-1 ,越南体育
-http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
-#EXTINF:-1 ,SPO体育
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?
-#EXTINF:-1 ,SPO体育2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 ,巴西TNT体育
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 ,ALL SPORTS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 ,C More Sport
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2515/index.m3u8
-#EXTINF:-1 ,TVP Sport
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2520/index.m3u8
-#EXTINF:-1 ,SK1
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2521/index.m3u8
-#EXTINF:-1 ,SK2
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7270/index.m3u8
-#EXTINF:-1 ,SK3
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7271/index.m3u8
-#EXTINF:-1 ,SK4
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7272/index.m3u8
-#EXTINF:-1 ,SK5
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7273/index.m3u8
-#EXTINF:-1 ,TV3 SPORT
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12100/index.m3u8
-#EXTINF:-1 ,Setanta Eurasia
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15183/index.m3u8
-#EXTINF:-1 ,Setanta Eurasia+
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15184/index.m3u8
-#EXTINF:-1 ,Fastnfunbox
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15231/index.m3u8
-#EXTINF:-1 ,Insport HD
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/16071/index.m3u8
