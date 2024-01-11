@@ -143,6 +143,8 @@ http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 http://61.244.22.4/ch1/ch1.live/index.m3u8
 #EXTINF:-1 ,澳门综艺
 http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 ,台湾+
+https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 #EXTINF:-1 ,TVBS新聞
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 ,TVBS娱乐
@@ -181,8 +183,14 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://edge1.laotv.la/live/Discovery/index.m3u8
 #EXTINF:-1 ,美国中文电视
 https://jpts.sinovision.net/livestream.m3u8
+#EXTINF:-1 ,NBC
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1 ,CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,天空新闻
+https://i.mjh.nz/sky-news-now.m3u8
+#EXTINF:-1 ,CNBC新闻
+https://i.mjh.nz/SamsungTVPlus/GBBD3600001NO.m3u8
 #EXTINF:-1 ,Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/3.m3u8
 #EXTINF:-1 ,Zoo Moo
